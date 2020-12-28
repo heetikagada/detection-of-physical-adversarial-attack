@@ -4,7 +4,7 @@ Goal: To create a detection algorithm against physical adversarial attack with a
 
 Method: The base of detection mechanism is based upon the lack of robustness of adversarial examples. 
 
-
+By Jiawei and Heetika Gada
 
 ### Directory:
 
